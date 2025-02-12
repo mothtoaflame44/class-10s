@@ -1,0 +1,34 @@
+html basic shortcut ---> html: 5
+<!DOCTYPE html>----> identifier 
+<html lang="en"> ---> default language
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+display element_--> the output we see in browsers with our html code the output shown is display element.
+types of display element
+1. inline element
+2. block element
+
+click on right in mouse
+and click inspect to see  the code in browser
+
+
+
+1. inline element: is what you can include 
+with another tag side by side, in short this tag doesn't take a whole line itself.
+
+
+1. block element : this line is quite the possesive one. taking a whole damn line for itself.
+
+
+===============================================>>
+
+CSS_ +++++----------->> 
+
